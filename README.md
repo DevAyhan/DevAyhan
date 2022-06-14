@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DevAyhan
-- 🌱 I’m currently learning Mobile Development - Kotlin
+- 🌱 I’m currently learning Mobile App Development - Kotlin
 - 📫 How to reach me ayhanyilmazdev@gmail.com
 
 <!---
