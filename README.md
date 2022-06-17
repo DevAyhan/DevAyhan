@@ -4,7 +4,7 @@
 
 - I am taking a course that Android Mobile Application Development Education | Kotlin | 2022
  from Kasim Adalan on Udemy.
-- I completed %60 of the course.
+- I completed %60 of the course and I am on 62th day.
 - So exited to learn Mobile Application Development and 
 next step will be Swift.
  
