@@ -2,9 +2,9 @@
 - 🌱 I’m currently learning Kotlin
 - 📫 How to reach me ayhanyilmazdev@gmail.com
 
-- I am taking a course that Android Mobile Application Development Education | Kotlin | 2022
+- I am taking a course that Android Mobile Application Development Course | Kotlin | 2022
  from Kasim Adalan on Udemy.
-- I completed %60 of the course and I am on 62th day.
+- Started to the course on April 14.
 - So exited to learn Mobile Application Development and 
 next step is gonna be Swift.
  
