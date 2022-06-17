@@ -7,7 +7,7 @@
 - Started to the course on April 14.
 - So exited to learn Mobile Application Development and 
 next step is gonna be Swift.
--I studied Sport Science. But I liked coding. I enjoy with algorithms and thinking like a software :)
+- I studied Sport Science. But I liked coding. I enjoy with algorithms and thinking like a software :)
  
 
 <!---
