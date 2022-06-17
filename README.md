@@ -6,7 +6,7 @@
  from Kasim Adalan on Udemy.
 - I completed %60 of the course and I am on 62th day.
 - So exited to learn Mobile Application Development and 
-next step gonna be Swift.
+next step is gonna be Swift.
  
 
 <!---
